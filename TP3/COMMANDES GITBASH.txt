@@ -1,0 +1,7 @@
+COMMANDES GITBASH :
+$ git config --global user.name "nada" : configurer le pseudo de l'utilisateur
+$ git config --global user.email "nada.ea28@gmail.com" : configurer l'email de l'utilisateur
+$ git --version : avoir la dernière version de git
+$ git init : le dossier va devenir référentiel 
+$ cd : accéder le dossier
+$ git commit -m : pour s'assurer que le changement a été bien effectué sur le dossier

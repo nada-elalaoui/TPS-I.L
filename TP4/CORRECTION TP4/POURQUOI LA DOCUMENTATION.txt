@@ -1,0 +1,15 @@
+la documentation est  principalement utilisée pour définir et expliquer les interfaces de programmation (APIs), 
+les structures de données et les algorithmes.
+
+Il est important pour les documents sur le code d'être précis, 
+mais pas non plus verbeux à un point tel qu'il serait difficile de les maintenir.
+
+il existe aussi des générateurs de documentation tels doxygen ou javadoc génèrent automatiquement la documentation
+ à partir du code source.
+
+Ils extraient le commentaire du code source et créent des manuels de référence sous des formats comme le texte, 
+des fichiers HTML, PDF, DocBook, ou RTF. 
+
+Les documents sur le code sont souvent organisés dans le style d'un guide de référence, 
+
+ce qui permet à un programmeur de localiser rapidement une fonction ou une classe quelconque.
